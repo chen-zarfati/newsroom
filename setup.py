@@ -8,15 +8,15 @@ setup(
     include_package_data = True,
 
     install_requires = [
-        "beautifulsoup4==4.6.0",
-        "click==6.7",
-        "nltk==3.2.5",
-        "readability-lxml==0.6.2",
-        "requests==2.18.4",
-        "tqdm==4.15.0",
-        "numpy==1.13.3",
-        "ujson==1.35",
-        "spacy==2.0.4",
+        "beautifulsoup4>=4.6.0",
+        "click>=6.7",
+        "nltk>=3.2.5",
+        "readability-lxml>=0.6.2",
+        "requests>=2.18.4",
+        "tqdm>=4.15.0",
+        "numpy>=1.13.3",
+        "ujson>=1.35",
+        "spacy>=2.0.4",
     ],
 
     entry_points = {
